@@ -5,6 +5,12 @@ Repositório criado para subir o trabalho final feito na disciplina de API Restf
 
 Modelo de uma API e-commerce do grupo 3 proposta pela matéria de Desenvolvimento de API Restful do Serratec.
 
+<hr>
+
+### Professor: Alexandre Paixão
+
+<hr>
+
 ## Script do banco de dados
 
 ```bash
