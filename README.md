@@ -72,6 +72,15 @@ id_produto INTEGER,
 FOREIGN KEY (id_produto) REFERENCES produto(id_produto)
 );
 ```
+## Configurando a API para execução
+
+As credenciais para acesso ao banco de dados e o nome do contexto da API deverão ser alterados no arquivo application.properties
+
 ## Sobre
 
-
+- Author - [Aysha Alessandra]
+- Author - [Fernanda Machado]
+- Author - [Talles Dias]
+- Author - [Pedro Louzada]
+- Author - [Bernardo Gutman]
+- 
