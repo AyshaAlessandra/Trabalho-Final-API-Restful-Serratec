@@ -83,4 +83,3 @@ As credenciais para acesso ao banco de dados e o nome do contexto da API deverã
 - Author - [Talles Dias]
 - Author - [Pedro Louzada]
 - Author - [Bernardo Gutman]
-- 
