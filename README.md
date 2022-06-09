@@ -1,10 +1,13 @@
-## Trabalho-Final-API-Restful-Serratec
+## Trabalho-Final-API-Restful-Serratec-2022.1
 Repositório criado para subir o trabalho final feito na disciplina de API Restful.
 
 ## Descrição
+
 Modelo de uma API e-commerce do grupo 3 proposta pela matéria de Desenvolvimento de API Restful do Serratec.
 
 ## Script do banco de dados
+
+```bash
 CREATE TABLE endereco (
 id_endereco SERIAL PRIMARY KEY, 
 cep varchar(9) NOT NULL, 
@@ -68,7 +71,7 @@ FOREIGN KEY (id_pedido) REFERENCES pedido(id_pedido),
 id_produto INTEGER,  
 FOREIGN KEY (id_produto) REFERENCES produto(id_produto)
 );
-
+```
 ## Sobre
 
 
