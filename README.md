@@ -80,7 +80,7 @@ FOREIGN KEY (id_produto) REFERENCES produto(id_produto)
 ```
 ## Configurando a API para execução
 
-As credenciais para acesso ao banco de dados e o nome do contexto da API deverão ser alterados no arquivo application.properties
+As credenciais para acesso ao banco de dados, nome do contexto da API, o caminho da pasta de imagem e as do gmail deverão ser alterados no arquivo application.properties
 
 ## Sobre
 
